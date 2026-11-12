@@ -55,7 +55,7 @@ See [`link-cable/ngpc-dreamcast-bridge.md`](link-cable/ngpc-dreamcast-bridge.md)
 
 This is one of three documentation repositories produced as part of **Silicon Relics**, a long-running cross-console preservation and homebrew effort focused on obscure and failed vintage platforms:
 
-- **[hyperscan-homebrew](https://github.com/vs-sr-dev/hyperscan-homebrew)** — Mattel HyperScan / S+Core 7
+- **[hyperscan-homebrew](https://github.com/vs-sr-dev/hyperscan-homebrew)** — Mattel HyperScan / S+Core 7 (archived and obsolete; superseded by [flick](https://github.com/vs-sr-dev/flick) and [hs-lba](https://github.com/vs-sr-dev/hs-lba))
 - **[ngpc-homebrew-notes](https://github.com/vs-sr-dev/ngpc-homebrew-notes)** — SNK Neo Geo Pocket Color / TLCS-900H (this repo)
 - **[pippin-homebrew](https://github.com/vs-sr-dev/pippin-homebrew)** — Bandai Pippin @WORLD / DingusPPC networking
 
